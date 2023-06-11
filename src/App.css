@@ -97,6 +97,7 @@ body{
     text-align: center;
     font-size:larger
 }
+
 .App {
     display: flex;
     flex-wrap: wrap;
@@ -126,6 +127,8 @@ button{
 }
 .card:hover{
     opacity: 2;
+    color: blueviolet;
+    background-color: aliceblue;
 }
 .disable {
     color: rgb(150, 149, 149);
